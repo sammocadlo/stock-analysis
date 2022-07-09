@@ -14,9 +14,7 @@ The code was also refactored in the VBA_Challenge file to remove a nested loop a
 ![Green_Stocks_2017](https://user-images.githubusercontent.com/105682444/178123543-629320b4-ee50-49f1-8257-757891bb5591.png)
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/105682444/178123545-50b2a4a4-13e3-4740-970c-b901fe498aec.png)
 
-## Summary
-
-####Advantages and Disadvantages of Refactoring Code
+## Summary - Advantages and Disadvantages of Refactoring Code
 
 A clear advantage of refactoring this code was improving the runtime, it also simplifies the code to be used in different projects as it is less specific to one workbook or analysis. A disadvantage could be losing functionality while refactoring, so it is always important to have your original code saved for backup or reference.
 
